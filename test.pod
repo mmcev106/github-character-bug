@@ -28,10 +28,4 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 =back
 
-=head1 License and Copyright
-
-The MIT License (MIT)
-
-Copyright (c) 2013-2020 Ingy döt Net
-
 =cut
