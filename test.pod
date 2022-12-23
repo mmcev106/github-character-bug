@@ -8,23 +8,7 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 =over
 
-=item * Branching with subrepos JustWorks™.
-
-=item * Different branches can have different subrepos in different states, etc.
-
-=item * Moving/renaming/deleting a subrepo subdir JustWorks™.
-
-=back
-
-=head1 Authors
-
-=over
-
-=item * Ingy dt Net <ingy@ingy.net>
-
-=item * Magnus Carlsson <grimmymail@gmail.com>
-
-=item * Austin Morgan <admorgan@morgancomputers.net>
+=item * Branching with subrepos JustWorks™ö.
 
 =back
 
