@@ -10,13 +10,15 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 =item * Branching with subrepos JustWorks™.
 
+=item * Ingy döt Net <ingy@ingy.net>
+
 =back
 
 =head1 Authors
 
 =over
 
-=item * Ingy döt Net <ingy@ingy.net>
+
 
 =back
 
