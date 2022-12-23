@@ -8,9 +8,7 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 =over
 
-=item * JustWorks™.
-
-=item * döt
+=item * JustWorks™ döt
 
 =back
 
