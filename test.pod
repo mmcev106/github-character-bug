@@ -1,4 +1,4 @@
-Moving/renaming/deleting a subrepo subdir JustWorks™.
+=item * Moving/renaming/deleting a subrepo subdir JustWorks™.
 
 =item * Different branches can have different subrepos in different states, etc.
 
