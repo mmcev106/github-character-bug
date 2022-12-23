@@ -2,6 +2,8 @@
 
 =for comment
 
+=encoding utf8
+
 =over
 
 =item * a ö b ™
