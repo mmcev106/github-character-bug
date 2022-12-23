@@ -8,7 +8,15 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 =over
 
-=item * Branching with subrepos JustWorks™ö.
+=item * Branching with subrepos JustWorks™.
+
+=back
+
+=head1 Authors
+
+=over
+
+=item * Ingy döt Net <ingy@ingy.net>
 
 =back
 
