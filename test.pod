@@ -14,42 +14,24 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 =item * Moving/renaming/deleting a subrepo subdir JustWorks™.
 
-=item * You can C<init> an existing subdirectory into a subrepo.
-
-=item * Your git history is kept squeaky clean.
-
-=item * Upstream history (clone/pull) is condensed into a single commit.
-
-=item * Pulls can use a C<merge>, C<rebase> or C<force> strategies.
-
-=item * You can see the subrepo history with C<< git log subrepo/<subdir>/fetch >>.
-
-=item * Commits pushed back upstream are B<not> condensed (by default).
-
-=item * Trivial to try any subrepo operations and then reset back.
-
-=item * No configuration required.
-
-=item * Does not introduce history that messes up other git commands.
-
-=item * Fixes known rebase failures with C<git-subtree>.
-
 =back
 
-=head1 Notes
+=head1 Authors
 
 =over
 
-=item * Works on POSIX systems: Linux, BSD, OSX, etc.
+=item * Ingy döt Net <ingy@ingy.net>
 
-=item * Works on various Windows environments. See "Windows" section above.
+=item * Magnus Carlsson <grimmymail@gmail.com>
 
-=item * The C<git-subrepo> repo itself has 2 subrepos under the C<ext/> subdirectory.
-
-=item * Written in (very modern) Bash, with full test suite. Take a look.
-
-=item * A C<.gitrepo> file never is in the top level dir (next to a C<.git/> dir).
+=item * Austin Morgan <admorgan@morgancomputers.net>
 
 =back
+
+=head1 License and Copyright
+
+The MIT License (MIT)
+
+Copyright (c) 2013-2020 Ingy döt Net
 
 =cut
