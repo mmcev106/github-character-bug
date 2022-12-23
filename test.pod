@@ -20,7 +20,7 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 =over
 
-=item * Ingy döt Net <ingy@ingy.net>
+=item * Ingy dt Net <ingy@ingy.net>
 
 =item * Magnus Carlsson <grimmymail@gmail.com>
 
