@@ -14,4 +14,6 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 =item * Moving/renaming/deleting a subrepo subdir JustWorks™.
 
+=back
+
 =cut
